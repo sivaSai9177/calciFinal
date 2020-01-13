@@ -320,6 +320,11 @@ i {
     .input-cells {
         height: calc(100% - 35%);
     }
+    
+    .cell-container {
+        height: calc(20% - 12px);
+    }
+    
 }
 
 @media screen and (min-width:1200px) {
