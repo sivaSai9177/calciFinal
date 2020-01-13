@@ -126,7 +126,7 @@ operators.forEach(operator => {
     operator.addEventListener('click', performOperation, false);
 })
 window.addEventListener('load', () => {
-    (function showBa() {
+    (function showBar() {
         bar.classList.add('progress');
     })();
 })
